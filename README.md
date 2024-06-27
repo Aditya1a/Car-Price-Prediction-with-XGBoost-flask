@@ -28,14 +28,10 @@ Scikit-learn: For preprocessing and model evaluation.
 ## Usage
 1. Homepage: Provides a form for users to input car details.
 2.  Enter Car Details: 
-  Company: The manufacturer of the car (e.g., Toyota, Ford).
-
-  Model: The model of the car (e.g., Corolla, Mustang).
-  
-  Purchase Year: The year the car was purchased.
-  
-  Fuel Type: The type of fuel the car uses (e.g., Petrol, Diesel).
-  
-  KM Driven: The total kilometers driven by the car.
+   1.  Company: The manufacturer of the car (e.g., Toyota, Ford).
+   2.  Model: The model of the car (e.g., Corolla, Mustang).
+   3.  Purchase Year: The year the car was purchased.
+   4.  Fuel Type: The type of fuel the car uses (e.g., Petrol, Diesel).
+   5.   KM Driven: The total kilometers driven by the car.
   
 3. Predict Price: Click the predict button to get the estimated price of the car.
