@@ -15,7 +15,11 @@ Machine Learning Model: Utilizes XGBoost for accurate price predictions.
 
 ## Technologies Used
 Flask: For backend web development.
+
 XGBoost: For the machine learning model.
+
 Pandas & NumPy: For data manipulation.
+
 HTML/CSS & JavaScript: For frontend development.
+
 Scikit-learn: For preprocessing and model evaluation.
