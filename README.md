@@ -37,5 +37,13 @@ Scikit-learn: For preprocessing and model evaluation.
       Fuel Type: The type of fuel the car uses (e.g., Petrol, Diesel).
     
       KM Driven: The total kilometers driven by the car.
-  
+
+
 4. Predict Price: Click the predict button to get the estimated price of the car.
+
+
+## Model Details
+1. Algorithm: XGBoost
+2. Features Used: Company, Model, Purchase Year, Fuel Type, KM Driven
+3. Preprocessing: Data is preprocessed using techniques such as encoding categorical variables
+
